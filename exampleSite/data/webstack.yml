@@ -8,6 +8,11 @@
       url: http://pan.stze.cn
       description: 个人alist网盘地址。
 
+    -title:
+      logo: https://res.oplist.org/logo/logo.svg
+      url: http://8.134.184.82:5244/
+      description: 阿里云服务器网盘。
+
 - taxonomy: 图标logo
   icon: fa-star
   links: 

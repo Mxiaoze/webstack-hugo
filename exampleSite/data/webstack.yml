@@ -3,8 +3,11 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: 网盘地址（香港）
+      logo: assets/images/logos/dribbble.png
+      url: pan.stze.cn
+      description: 个人alist网盘地址。
     - title: Dribbble
       logo: assets/images/logos/dribbble.png
       url: https://dribbble.com/
       description: 全球UI设计师作品分享平台。
-

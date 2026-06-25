@@ -1,11 +1,11 @@
 # 你的导航网站最终在线访问的完整网址（部署好后可以改成你在 CF 绑定的域名）
-baseURL = "http://example.org/"
+baseURL = "http://nav.stze.cn/"
 
 # 网站的语言设置，zh-CN 代表简体中文
 languageCode = "zh-CN"
 
 # 浏览器的标签页标题，以及网站顶部的名字
-title = "WebStack网址导航 Hugo主题"
+title = "小泽导航页"
 
 # 当前使用的主题名称（就是我们刚才强行指向的 webstack-hugo）
 theme = "webstack-hugo"
@@ -24,10 +24,10 @@ copyright = ""
 
 [params]
   # 网站作者的名字
-  author = "iplaycode"
+  author = "bypass:小泽"
 
   # 网站的描述信息（主要用于 SEO 搜索引擎优化，告诉百度/Google 这是一个什么网站）
-  description = "Webstack Hugo"
+  description = "小泽导航页"
 
 [params.search]
   # 顶部搜索框的总开关！要关闭搜索框，请把下面的 true 改为 false ❌

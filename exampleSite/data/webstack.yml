@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: 网盘地址（香港）
-      logo: assets/images/logos/dribbble.png
+      logo: https://res.oplist.org/logo/logo.svg
       url: http://pan.stze.cn
       description: 个人alist网盘地址。
     - title: Dribbble

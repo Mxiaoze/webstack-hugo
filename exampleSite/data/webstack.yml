@@ -20,3 +20,12 @@
      logo: assets/images/logos/dribbble.png
      url: https://www.iconfont.cn/
      description: 阿里巴巴icon的标
+
+
+- taxonomy: 视频教程类
+  icon: fa-play
+  links:
+    - title: 樱花动漫发布页
+      logo: https://www.yinhuadm.one/asset/logox.png
+      url: https://www.yinhuadm.one/
+      description: 樱花动漫

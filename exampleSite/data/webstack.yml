@@ -29,3 +29,17 @@
       logo: https://www.yinhuadm.one/asset/logox.png
       url: https://www.yinhuadm.one/
       description: 樱花动漫
+
+
+- taxonomy: ai
+  icon: fa-laptop-code
+  links:
+    - title: gemini
+      logo: https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg
+      url: https://gemini.google.com/
+      description: gemini(谷歌ai)
+
+    - title: 豆包
+      logo: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/doubao_avatar.png
+      url: https://www.doubao.com/chat/
+      description: 豆包ai
